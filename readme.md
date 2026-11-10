@@ -23,6 +23,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 ## End-to-End Software Factories
 
 - [Cosmos](https://www.augmentcode.com/product/cosmos) - Runs event-triggered agent fleets across ticket intake, implementation, verification, deployment, monitoring, remediation, and human approval checkpoints in versioned software-factory workflows.
+- [Dispatch](https://upsun.com/dispatch/) - Integrate into your existing tools to automate agents and humans collaboration on building software. Runs custom agentic workflows that improve over-time.
 - [Factory.ai Software Factory](https://docs.factory.ai/software-factory/overview) - Connects intake and triage, agent implementation, code and security review, automated QA, release gates, documentation, and incident response across persistent delivery automations.
 - [Felan](https://felan.ai/) - Carries team requests, schedules, and system events through contextual planning, implementation, testing, review, pull-request handoff, and operational follow-up using unattended agents in isolated environments.
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo-agent-platform/) - Runs governed agents and repeatable flows across planning, coding, security, merge requests, CI/CD, and deployment within GitLab.
